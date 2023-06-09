@@ -42,7 +42,7 @@ const isIE=window.navigator.userAgent.indexOf('MSIE')>-1
         {
           auth:{
             clientId:'d7a7ca7b-b0c0-441c-ad6f-4b87cba5da55',
-            redirectUri:'http://localhost:4200',
+            redirectUri:'https://schedule-meeting-wheat.vercel.app/',
             authority:'https://login.microsoftonline.com/d074e917-c8d9-42cc-8986-2cd1bdfbd079'
           },
           cache:
